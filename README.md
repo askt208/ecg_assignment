@@ -1,5 +1,5 @@
-# ecg_assignment
-ecg_assignment for Programming III
+# Ecg_assignment
+Ecg_assignment for Programming III
 
 # Continuous glucose records
 This repository contains the analysis of the ECG study case.
@@ -42,6 +42,6 @@ Mary(Pei-Shan) Wu
 p.wu.2@st.hanze.nl
 
 # References
-[1] 
+[1] Makowski, D., Pham, T., Lau, Z. J., Brammer, J. C., Lespinasse, F., Pham, H., Schölzel, C., & Chen, S. A. (2021). NeuroKit2: A Python toolbox for neurophysiological signal processing. Behavior Research Methods, 53(4), 1689-1696. https://doi.org/10.3758/s13428-020-01516-y.
 [2] 
 

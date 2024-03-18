@@ -3,7 +3,7 @@ Ecg_assignment for Programming III
 
 # ECG study case
 This repository contains the analysis of the ECG study case.
-Purpose: to investigate the streaming ECG data.
+Purpose: to investigate the streaming ECG data.  
 
 # Methodology
 1. Develop a client app

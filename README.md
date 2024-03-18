@@ -37,11 +37,11 @@ Description of the data: messages contain
     The configuration file contains data path.
 
 # Author
-Mary(Pei-Shan) Wu
-p.wu.2@st.hanze.nl
+Mary(Pei-Shan) Wu  
+p.wu.2@st.hanze.nl  
 
 # References
-[1] Nemirko A.P., Lugovaya T.S. Biometric human identification based on electrocardiogram. Proc. XII-th Russian Conference on Mathematical Methods of Pattern Recognition, Moscow, MAKS Press, 2005, pp. 387-390. ISBN 5-317-01445-X.
-[2] Makowski, D., Pham, T., Lau, Z. J., Brammer, J. C., Lespinasse, F., Pham, H., Schölzel, C., & Chen, S. A. (2021). NeuroKit2: A Python toolbox for neurophysiological signal processing. Behavior Research Methods, 53(4), 1689-1696. https://doi.org/10.3758/s13428-020-01516-y.
+[1] Nemirko A.P., Lugovaya T.S. Biometric human identification based on electrocardiogram. Proc. XII-th Russian Conference on Mathematical Methods of Pattern Recognition, Moscow, MAKS Press, 2005, pp. 387-390. ISBN 5-317-01445-X.  
+[2] Makowski, D., Pham, T., Lau, Z. J., Brammer, J. C., Lespinasse, F., Pham, H., Schölzel, C., & Chen, S. A. (2021). NeuroKit2: A Python toolbox for neurophysiological signal processing. Behavior Research Methods, 53(4), 1689-1696. https://doi.org/10.3758/s13428-020-01516-y.  
 [3] 
 

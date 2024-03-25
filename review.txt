@@ -1,0 +1,7 @@
+First of all, Very good work Marry
+neat and clean Code.
+You should add requirements.txt or your required packages list  and instruction so that anyone can run your code easily
+
+Also, nice write the comments nicely. and state your observations in one line. Maybe you could elaborate this
+
+Overall, you did a good job!
